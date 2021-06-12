@@ -1,0 +1,43 @@
+body{
+  background-color: black;
+  color: white;
+     display: flex;
+}
+.containers{
+  background-color: #0a1931;
+  margin: 9rem;
+
+}
+img{
+padding-left: 5rem;
+
+}
+.spark{
+    padding: 5rem;
+    padding-bottom: 0;
+}
+span{
+  color: #511281;
+}
+h2{
+  margin-bottom: 30px;
+}
+p{
+  width: 350px;
+  word-wrap: break-word;
+  margin-bottom: 50px;
+
+}
+h4 {
+  word-spacing: 80px;
+}
+.space{
+  word-spacing: 60px;
+}
+
+
+ @media (max-width:600px) {
+   body{
+     margin:2rem;
+   }
+ }
